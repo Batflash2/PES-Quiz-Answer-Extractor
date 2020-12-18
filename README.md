@@ -10,7 +10,7 @@ Version 1.0
 
 Requirements:   <br />
     > Python 3      <br />
-    > BeautifulSoup4 Library    [ pip install BeautifulSoup4 ]      <br / >
+    > BeautifulSoup4 Library    [ pip install BeautifulSoup4 ]      <br />
 
 How to use:<br />
     > First go to the quiz      <br />
