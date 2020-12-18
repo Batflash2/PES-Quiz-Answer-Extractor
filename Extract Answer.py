@@ -1,3 +1,8 @@
+"""
+Author: Pratham Bhat
+Github: batflash2
+"""
+
 from bs4 import BeautifulSoup
 
 #print("Paste the html code here")
@@ -17,3 +22,5 @@ for i in range(1, nq * 4):
     ans = answers[i].input['value']
     if ans == "true":
         print(str(i // 4 + 1) + ': ' + str(i % 4 + 1))
+
+input("Press enter to exit")
