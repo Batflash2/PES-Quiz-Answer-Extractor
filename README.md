@@ -1,4 +1,7 @@
 # PES-Quiz-Answer-Extractor
+Author: Pratham Bhat
+Github: batflash2
+
 This only works for MCQ's from the pesuacademy.com.
 It extracts the answers from the code of the site
 and displays it in an easy-to-read format.

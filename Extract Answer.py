@@ -23,4 +23,4 @@ for i in range(1, nq * 4):
     if ans == "true":
         print(str(i // 4 + 1) + ': ' + str(i % 4 + 1))
 
-input("Press enter to exit")
+input("\n\n\n\nPress enter to exit")
