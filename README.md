@@ -8,9 +8,9 @@ and displays it in an easy-to-read format.
 
 Version 1.0
 
-Requirements:
-    > Python 3
-    > BeautifulSoup4 Library    [ pip install BeautifulSoup4 ]
+Requirements:   <br />
+    > Python 3      <br />
+    > BeautifulSoup4 Library    [ pip install BeautifulSoup4 ]      <br / >
 
 How to use:<br />
     > First go to the quiz      <br />
