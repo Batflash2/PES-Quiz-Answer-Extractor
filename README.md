@@ -3,11 +3,11 @@ This only works for assignments from the pesuacademy.com. It extracts the answer
 
 Version 1.0
 
-How to use:
-    > First go to the quiz
-    > Press F12 or ctrl + shift + i
-    > On the right click on the html tag right click,
-      copy and copy element.
-    > Now open the html file called PEScode.html
-    > Delete all the contents and press ctrl + v
-    > Now just double click Extract Answer.py and see the answers.
+How to use:<br />
+    > First go to the quiz      <br />
+    > Press F12 or ctrl + shift + i     <br />
+    > On the right click on the html tag right click,     <br />
+      copy and copy element.        <br />
+    > Now open the html file called PEScode.html        <br />
+    > Delete all the contents and press ctrl + v        <br />
+    > Now just double click Extract Answer.py and see the answers.      <br />
