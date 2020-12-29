@@ -1,6 +1,6 @@
 """
 Author: Pratham Bhat
-Github: batflash2
+Github: PrathamBhatTech
 """
 
 from bs4 import BeautifulSoup
