@@ -1,5 +1,5 @@
 # PES-Quiz-Answer-Extractor
-Author: Pratham Bhat
+Author: Pratham Bhat    <br />
 Github: PrathamBhatTech
 
 This only works for MCQ's from the pesuacademy.com.
